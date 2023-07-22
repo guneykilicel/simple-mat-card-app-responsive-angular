@@ -10,19 +10,19 @@ export class AppComponent {
     {
       title: 'Camping',
       imageUrl: '/assets/camping.jpg',
-      username: 'cbdag',
+      username: 'dag',
       content: 'Kampa gençler'
     },
     {
       title: 'Tırmanış',
       imageUrl: 'assets/paragliding.jpg',
-      username: 'cbuludag',
+      username: 'uludag',
       content: 'Bugünde iyi tırmandım'
     },
     {
       title: 'Surf',
       imageUrl: 'assets/surf.jpg',
-      username: 'cbdoga',
+      username: 'doga',
       content: 'Hadi biraz surf yapalım'
     }
   ];
